@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    「 ᗪOᖇᗩᗴᗰOᑎ ᗪᒍ 」
 </h2>
 
 <p align="center">
@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/AnonymousR1025/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AnonymousR1025/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousR1025/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Pravartak/Doraemon-DJ/stargazers"><img src="https://img.shields.io/github/stars/Pravartak/Doraemon-DJ?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Pravartak/Doraemon-DJ/network/members"> <img src="https://img.shields.io/github/forks/Pravartak/Doraemon-DJ?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Pravartak/Doraemon-DJ/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousR1025/AnonXMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Pravartak/Doraemon-DJ/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/Pravartak/Doraemon-DJ?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -20,32 +20,32 @@
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+    ─「 ᗪᗴᑭᒪOY TO ᕼᗴᖇOKᑌ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousR1025/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Pravartak/Doraemon-DJ"> <img src="https://img.shields.io/badge/ᗪᗴᑭᒪOY%20Oᑎ%20ᕼᗴᖇOKᑌ-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ 」─
+    ─「 ᗪᗴᑭᒪOY TO OKTᗴTO 」─
 </h3>
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/AnonymousR1025/AnonXMusic"><img src="https://img.shields.io/badge/Deploy%20On%20Okteto-black?style=for-the-badge&logo=Okteto" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Pravartak/Doraemon-DJ"><img src="https://img.shields.io/badge/ᗪᗴᑭᒪOY%20Oᑎ%20OKTᗴTO-black?style=for-the-badge&logo=Okteto" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「 ՏᑌᑭᑭOᖇT 」─
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/DORAEMONBOTSUPPORT"><img src="https://img.shields.io/badge/-ՏᑌᑭᑭOᖇT%20ᘜᖇOᑌᑭ-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/anonymous_was_bot"><img src="https://img.shields.io/badge/%20Anonymous-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Gamers_Lair"><img src="https://img.shields.io/badge/%20ᗪOᖇᗩᗴᗰOᑎ-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
+    ─「 ᑕᖇᗴᗪITՏ 」─
 </h3>
 
 <p align="center">
